@@ -70,7 +70,7 @@ This dataset forms the backbone for predictive modeling in healthcare diagnostic
 ## Full Access 
 
 - [Presentation Slides]( https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FFadekemi29%2FSQL_Projects%2Frefs%2Fheads%2Fmain%2FSkin_Cancer_Analysis%2FSkin%2520Cancer%2520Analysis%2520PPTX.pptx&wdOrigin=BROWSELINK)
-- [Process Documentation]( DermAi Diagnostic- Skin Cancer Analysis.docx)
+- [Process Documentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FFadekemi29%2FSQL_Projects%2Frefs%2Fheads%2Fmain%2FSkin_Cancer_Analysis%2FDermAi%2520Diagnostic-%2520Skin%2520Cancer%2520Analysis.docx&wdOrigin=BROWSELINK)
 - [Excel Visualisations](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FFadekemi29%2FSQL_Projects%2Frefs%2Fheads%2Fmain%2FSkin_Cancer_Analysis%2FSkin%2520Cancer%2520Analysis.xlsx&wdOrigin=BROWSELINK)
 - [Raw Dataset]( https://github.com/Fadekemi29/SQL_Projects/blob/main/Skin_Cancer_Analysis/Skin_Cancer_Dataset) 
 - [SQL Code]( https://github.com/Fadekemi29/SQL_Projects/blob/main/Skin_Cancer_Analysis/DermAI%20SQL.sql)
