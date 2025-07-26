@@ -11,7 +11,7 @@ Analyzing DermAI Diagnostic Database to uncover links between demographics, envi
 - [Analytical Insights](#analytical-insights)
 - [Recommendations](#recommendations)
 - [Next Steps](#next-steps)
-- [Disclaimer](#disclaimer)
+- [Full Access](#Full-Access)
 - [Contact](#contact)
 
 ## Project Overview
