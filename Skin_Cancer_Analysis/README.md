@@ -66,9 +66,14 @@ This project investigates over 1,000 clinical cases of skin cancer using SQL que
 ## Next Steps
 This dataset forms the backbone for predictive modeling in healthcare diagnostics, driving machine learning development, research studies, and public health initiatives.
 
-## ⚠️ Disclaimer
 
-This project was developed for educational and research purposes, using anonymized datasets provided by 10Alytics. The insights, analyses, and visualizations presented here do not constitute medical advice and should not be used for diagnostic or treatment decisions. Any resemblance to real-world cases or individuals is purely coincidental. Users are encouraged to verify findings and consult licensed professionals before applying insights to real-world scenarios.
+## Full Access 
+
+-[Presentation Slides]( Skin Cancer Analysis PPTX.pptx)
+- [Process Document]( DermAi Diagnostic- Skin Cancer Analysis.docx)
+- [Excel Visualisations]( Skin Cancer Analysis.xlsx)
+- [Raw Dataset]( SQL_Projects/Skin_Cancer_Analysis/Skin_Cancer_Dataset at main · Fadekemi29/SQL_Projects) 
+- [SQL Code]( https://github.com/Fadekemi29/SQL_Projects/blob/main/Skin_Cancer_Analysis/DermAI%20SQL.sql)
 
 
 ## Contact
