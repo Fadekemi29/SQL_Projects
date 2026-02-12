@@ -13,6 +13,7 @@ Analyzing DermAI Diagnostic Database to uncover links between demographics, envi
 
 ---
 
+
 ## 📚 Table of Contents
 
 - [🩺 DermAI Diagnostic | Skin Cancer Analysis](#-dermai-diagnostic--skin-cancer-analysis)
@@ -286,7 +287,7 @@ Data Analyst | Healthcare Analytics Specialist
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
