@@ -1,21 +1,20 @@
 
 ![SkinCancer](https://github.com/user-attachments/assets/68b4e44f-5f54-4a66-a1f9-2852fcfda379)
 
-# Skin-Cancer-Analysis
+# 🩺 DermAI Diagnostic | Skin Cancer Analysis
+
+**SQL-Based Analysis of 1,088 Clinical Cases to Identify Cancer Risk Factors**
 Analyzing DermAI Diagnostic Database to uncover links between demographics, environmental exposure, and lesion traits in skin cancer. Prepares data for SQL queries, analysis, and ML models to improve early diagnosis.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Data Highlights](#data-highlights)
-- [Technology Stack](#tech-stack)
-- [Analytical Insights](#analytical-insights)
-- [Recommendations](#recommendations)
-- [Next Steps](#next-steps)
-- [Full Access](#Full-Access)
-- [Contact](#contact)
 
-## Project Overview
-This project investigates over 1,000 clinical cases of skin cancer using SQL queries and statistical analysis to uncover diagnostic patterns, environmental and demographic risk factors, and lesion characteristics. The goal is to improve early detection and enable ML-ready datasets for future predictive models in dermatology.
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+  
+## 📊 Project Overview
+Comprehensive SQL analysis of 1,088 skin lesion cases to identify environmental, demographic, and clinical risk factors for early cancer detection. This project demonstrates end-to-end data analysis—from PostgreSQL query development to interactive Power BI visualization.
 
  ## Project Workflow
 - Data Source: Anonymized dataset from 10Alytics learning platform
@@ -26,76 +25,6 @@ This project investigates over 1,000 clinical cases of skin cancer using SQL que
 - Presentation: Built PowerPoint slides summarizing findings and recommendations
 - Documentation: Proper documentation with MS Word
 - ML-Ready Output: Packaged structured data for future machine learning models
-
-
-## Key Insights
-
-**Environmental Factors**:
-- 45% of malignant cases involve pesticide exposure
-- 80% of precancerous cases lack proper sewage or piped water access
-
-
-**Demographic Patterns**:
-- Highest cancer prevalence in males aged 50–69 with history of smoking and alcohol use
-- Malignant cases had the highest association with skin cancer history (45%) and other cancer history (54%)
-
-
-**Lesion Characteristics**:
-- Melanoma average lesion size: 197.58mm²
-- Biopsy inconsistencies: precancerous lesions frequently symptomatic but not confirmed via biopsy
-
-
-**Risk Cohorts**:
-- 50+ high-risk patients flagged for priority follow-up
-
-
-## Tech Stack
-- PostgreSQL + pgAdmin
-- Microsoft Excel
-- Microsoft PowerPoint
-- Microsoft Word
-
-
-## Recommendations
-- Policy-level interventions to control pesticide exposure
-- Active monitoring of symptomatic yet biopsy-negative cases
-- Early screening protocols for aging demographics
-- ML model development using lesion and environmental features
-
-
-## Next Steps
-This dataset forms the backbone for predictive modeling in healthcare diagnostics, driving machine learning development, research studies, and public health initiatives.
-
-
-## Full Access 
-
-- [Presentation Slides]( https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FFadekemi29%2FSQL_Projects%2Frefs%2Fheads%2Fmain%2FSkin_Cancer_Analysis%2FSkin%2520Cancer%2520Analysis%2520PPTX.pptx&wdOrigin=BROWSELINK)
-- [Process Documentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FFadekemi29%2FSQL_Projects%2Frefs%2Fheads%2Fmain%2FSkin_Cancer_Analysis%2FDermAi%2520Diagnostic-%2520Skin%2520Cancer%2520Analysis.docx&wdOrigin=BROWSELINK)
-- [Excel Visualisations](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FFadekemi29%2FSQL_Projects%2Frefs%2Fheads%2Fmain%2FSkin_Cancer_Analysis%2FSkin%2520Cancer%2520Analysis.xlsx&wdOrigin=BROWSELINK)
-- [Raw Dataset]( https://github.com/Fadekemi29/SQL_Projects/blob/main/Skin_Cancer_Analysis/Skin_Cancer_Dataset) 
-- [SQL Code]( https://github.com/Fadekemi29/SQL_Projects/blob/main/Skin_Cancer_Analysis/DermAI%20SQL.sql)
-
-
-## Contact
-
-For questions or collaboration opportunities, please reach out via:
-- LinkedIn: https://www.linkedin.com/in/fadekemi-adefemi0129/
-- Email: Fadekemiadefemi22@gmail.com
-- GitHub: https://github.com/Fadekemi29/
-
-# 🩺 DermAI Diagnostic | Skin Cancer Analysis
-
-**SQL-Based Analysis of 1,088 Clinical Cases to Identify Cancer Risk Factors**
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
----
-
-## 📊 Project Overview
-
-Comprehensive SQL analysis of 1,088 skin lesion cases to identify environmental, demographic, and clinical risk factors for early cancer detection. This project demonstrates end-to-end data analysis—from PostgreSQL query development to interactive Power BI visualization.
 
 **Business Impact:**
 - 🎯 Identified **54 high-risk patients** requiring immediate clinical surveillance
@@ -145,40 +74,6 @@ Comprehensive SQL analysis of 1,088 skin lesion cases to identify environmental,
 | **Documentation** | Microsoft Word, PowerPoint |
 | **Version Control** | Git, GitHub |
 
----
-
-## 📁 Project Structure
-```
-dermai-cancer-analysis/
-│
-├── README.md                          # Project overview
-├── documentation/
-│   ├── Technical_Analysis.docx        # Full SQL documentation
-│   └── Presentation.pptx              # Executive summary slides
-│
-├── sql/
-│   ├── 01_environmental_risk.sql      # Environmental factor analysis
-│   ├── 02_lesion_size_analysis.sql    # Lesion measurements by type
-│   ├── 03_demographic_risk.sql        # Patient demographic profiling
-│   ├── 04_symptom_analysis.sql        # Clinical symptom patterns
-│   └── 05_high_risk_patients.sql      # Priority patient identification
-│
-├── visualizations/
-│   ├── environmental_risk_chart.png   # Risk factor visualization
-│   ├── lesion_size_treemap.png        # Size comparison by diagnosis
-│   ├── symptom_analysis.png           # Symptom burden matrix
-│   └── dashboard_overview.png         # Complete dashboard view
-│
-├── data/
-│   ├── sample_patient_data.csv        # Anonymized sample (50 rows)
-│   ├── sample_lesion_data.csv         # Anonymized sample (50 rows)
-│   └── data_dictionary.md             # Field descriptions
-│
-└── powerbi/
-    └── dermai_dashboard.pbix          # Interactive Power BI file
-```
-
----
 
 ## 🔍 Methodology
 
@@ -258,12 +153,7 @@ WHERE skin_cancer_history = TRUE
    - Create symptom-independent biopsy criteria for malignant-appearing lesions
    - Establish high-risk patient registries for systematic follow-up
 
-### Long-Term Strategy
-- **Machine Learning Development:** Use structured dataset for predictive model training
-- **Longitudinal Studies:** Track identified high-risk cohort over time
-- **Policy Integration:** Inform environmental safety and healthcare access policies
 
----
 
 ## 📊 Dashboard Preview
 
@@ -303,69 +193,27 @@ Dynamic dashboard with full interactivity:
 ✅ **Stakeholder Communication:** Technical findings → business recommendations  
 ✅ **Documentation:** Comprehensive technical and executive-level reporting  
 
----
-
-## 🚀 How to Use This Project
-
-### Prerequisites
-- PostgreSQL 12+ (for database)
-- pgAdmin 4 (for database management)
-- Power BI Desktop (for interactive dashboard)
-- Basic SQL knowledge
-
-### Setup Instructions
-
-**1. Clone the repository**
-```bash
-git clone https://github.com/Fadekemi29/Skin-Cancer-Analysis.git
-cd Skin-Cancer-Analysis
-```
-
-**2. Set up the database**
-```bash
-# Import data into PostgreSQL
-psql -U postgres -d dermai -f sql/schema.sql
-psql -U postgres -d dermai -f sql/data_import.sql
-```
-
-**3. Run SQL queries**
-```bash
-# Execute analytical queries
-psql -U postgres -d dermai -f sql/01_environmental_risk.sql
-psql -U postgres -d dermai -f sql/02_lesion_size_analysis.sql
-# ... (run remaining queries)
-```
-
-**4. Open Power BI dashboard**
-```
-Open: powerbi/dermai_dashboard.pbix
-Connect to your local PostgreSQL instance
-Credentials: (your postgres username/password)
-```
-
----
 
 ## 📈 Future Enhancements
 
 ### Phase 1: Current Project ✅
-- [x] SQL analysis complete
-- [x] Static visualizations created
-- [x] Documentation finalized
-- [ ] Interactive dashboard (Page 2) - *In Progress*
+- SQL analysis complete
+- Static visualizations created
+- Documentation finalized
+- [] Interactive dashboard (Page 2) - *In Progress*
 
 ### Phase 2: Machine Learning Integration
-- [ ] Feature engineering for predictive models
-- [ ] Classification model (malignant vs benign)
-- [ ] Risk scoring algorithm
-- [ ] Model deployment via API
+- Feature engineering for predictive models
+- Classification model (malignant vs benign)
+- Risk scoring algorithm
+- Model deployment via API
 
 ### Phase 3: Advanced Analytics
-- [ ] Time-series analysis (lesion growth patterns)
-- [ ] Geographic clustering analysis
-- [ ] Survival analysis integration
-- [ ] Real-time alerting system
+- Time-series analysis (lesion growth patterns)
+- Geographic clustering analysis
+- Survival analysis integration
+- Real-time alerting system
 
----
 
 ## 📄 Data Sources & Ethics
 
@@ -380,33 +228,17 @@ Credentials: (your postgres username/password)
 - Findings presented at aggregate level only
 - HIPAA-compliant data handling practices followed
 
----
 
-## 📚 Documentation
+## Full Access 
 
-### Full Technical Documentation
-- **[Technical Analysis Report](documentation/Technical_Analysis.docx)** - Complete SQL methodology, query explanations, and detailed findings
-- **[Executive Presentation](documentation/Presentation.pptx)** - Stakeholder-ready slides with key insights and recommendations
-- **[Data Dictionary](data/data_dictionary.md)** - Field descriptions and data types
+- [Executive Presentation]( https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FFadekemi29%2FSQL_Projects%2Frefs%2Fheads%2Fmain%2FSkin_Cancer_Analysis%2FSkin%2520Cancer%2520Analysis%2520PPTX.pptx&wdOrigin=BROWSELINK)
+- [Process Documentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FFadekemi29%2FSQL_Projects%2Frefs%2Fheads%2Fmain%2FSkin_Cancer_Analysis%2FDermAi%2520Diagnostic-%2520Skin%2520Cancer%2520Analysis.docx&wdOrigin=BROWSELINK)
+- [Excel Visualisations](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FFadekemi29%2FSQL_Projects%2Frefs%2Fheads%2Fmain%2FSkin_Cancer_Analysis%2FSkin%2520Cancer%2520Analysis.xlsx&wdOrigin=BROWSELINK)
+- [Raw Dataset]( https://github.com/Fadekemi29/SQL_Projects/blob/main/Skin_Cancer_Analysis/Skin_Cancer_Dataset) 
+- [SQL Code]( https://github.com/Fadekemi29/SQL_Projects/blob/main/Skin_Cancer_Analysis/DermAI%20SQL.sql)
 
-### SQL Query Files
-Each query file includes:
-- Business question being answered
-- SQL code with inline comments
-- Expected output format
-- Key findings summary
 
----
 
-## 🤝 Contributing
-
-This is a portfolio project, but feedback and suggestions are welcome!
-
-**To suggest improvements:**
-1. Open an issue describing your suggestion
-2. If proposing code changes, fork the repo and create a pull request
-
----
 
 ## 📫 Contact
 
@@ -429,8 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **10Alytics** - For providing the anonymized dataset and learning platform
-- **PostgreSQL Community** - For excellent database documentation
-- **Power BI Community** - For visualization best practices and resources
 
 ---
 
