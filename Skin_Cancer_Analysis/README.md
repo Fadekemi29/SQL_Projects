@@ -12,7 +12,39 @@ Analyzing DermAI Diagnostic Database to uncover links between demographics, envi
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
-  
+
+## 📚 Table of Contents
+
+- [🩺 DermAI Diagnostic | Skin Cancer Analysis](#-dermai-diagnostic--skin-cancer-analysis)
+- [📊 Project Overview](#-project-overview)
+- [📂 Project Workflow](#-project-workflow)
+- [🎯 Key Findings](#-key-findings)
+  - [Environmental Risk Patterns](#environmental-risk-patterns)
+  - [Demographic Risk Stratification](#demographic-risk-stratification)
+  - [Lesion Size as Diagnostic Indicator](#lesion-size-as-diagnostic-indicator)
+  - [Critical Diagnostic Gap](#critical-diagnostic-gap)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [🔍 Methodology](#-methodology)
+  - [1. Database Setup & Data Integration](#1-database-setup--data-integration)
+  - [2. SQL Query Development](#2-sql-query-development)
+  - [3. Visualization & Reporting](#3-visualization--reporting)
+- [💡 Business Recommendations](#-business-recommendations)
+  - [Immediate Actions](#immediate-actions)
+  - [Public Health Interventions](#public-health-interventions)
+  - [Healthcare System Optimization](#healthcare-system-optimization)
+- [📊 Dashboard Preview](#-dashboard-preview)
+  - [Page 1: SQL Analysis Results](#page-1-sql-analysis-results)
+  - [Page 2: Interactive Data Explorer](#page-2-interactive-data-explorer-in-development)
+- [🎓 Skills Demonstrated](#-skills-demonstrated)
+  - [Technical Skills](#technical-skills)
+  - [Business Skills](#business-skills)
+- [📈 Future Enhancements](#-future-enhancements)
+- [📄 Data Sources & Ethics](#-data-sources--ethics)
+- [🔗 Full Access](#full-access)
+- [📫 Contact](#-contact)
+- [📝 License](#-license)
+- [🙏 Acknowledgments](#-acknowledgments)
+
 ## 📊 Project Overview
 Comprehensive SQL analysis of 1,088 skin lesion cases to identify environmental, demographic, and clinical risk factors for early cancer detection. This project demonstrates end-to-end data analysis—from PostgreSQL query development to interactive Power BI visualization.
 
