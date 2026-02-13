@@ -191,7 +191,7 @@ WHERE skin_cancer_history = TRUE
 ## 📊 Dashboard Preview
 
 ### Page 1: SQL Analysis Results
-![SQL Analysis Dashboard](<img width="1096" height="615" alt="image" src="https://github.com/user-attachments/assets/6a2dc615-bd8d-47d7-ba82-d6ba373e12ca" />
+![Poer BI Dashboard](Skin_Cancer_Analysis/Skin_Cancer_Analysis_Dashboard.PNG />
 )
 
 **Static presentation** of PostgreSQL analytical findings:
