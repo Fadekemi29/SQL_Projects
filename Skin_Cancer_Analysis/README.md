@@ -191,7 +191,7 @@ WHERE skin_cancer_history = TRUE
 ## 📊 Dashboard Preview
 
 ### Page 1: SQL Analysis Results
-![Power BI Dashboard](./Skin_Cancer_Analysis_Dashboard.PNG)
+![Power BI Dashboard](https://github.com/Fadekemi29/SQL_Projects/blob/main/Skin_Cancer_Analysis/DermAi_Skin_Cancer_Analysis_Dashboard.PNG)
 
 
 **Static presentation** of PostgreSQL analytical findings:
